@@ -1,6 +1,6 @@
-##### University-Pro_max
+# University Pro max
 
-<h1> University pro max </h1>
+<h1> WElcome to our University </h1>
 
 <h3> Mission with a vision </h3>
 
